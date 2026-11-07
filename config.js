@@ -23,7 +23,7 @@ const WEDDING_CONFIG = {
       fullName: "Rama Oktamala, S.T.",
       nickname: "Rama",
       sonOf: "Putra Kedua dari Bapak Ade Saripudin & Ibu Dede Juhayah (Almh)",
-      photo: "/assets/img/rama.jpg",
+      photo: "assets/img/rama.jpg",
       photoFrame: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
       instagram: "https://instagram.com",
       instagramUsername: "@ramaoktamala",
@@ -33,7 +33,7 @@ const WEDDING_CONFIG = {
       fullName: "Neng Meri Ratna Sapuri, S.Pd.",
       nickname: "Merry",
       daughterOf: "Putri Kedua dari Bapak Uum & Ibu Eutik",
-      photo: "/assets/img/merry.jpg",
+      photo: "assets/img/merry.jpg",
       instagram: "https://instagram.com",
       instagramUsername: "@merryratna_s",
       bio: "Guru PPKn yang meyakini takdir indah yang telah Tuhan gariskan."
