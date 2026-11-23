@@ -118,7 +118,7 @@ const WEDDING_CONFIG = {
     {
       year: "28 Desember 2026",
       title: "Menuju Gerbang Sakinah",
-      image: "assets/img/menuju.jpg",
+      image: "assets/img/menuju.JPG",
       description: "Sebuah babak baru resmi kami buka. Kami siap mengikat janji suci di hadapan Allah SWT dan seluruh keluarga serta sahabat tercinta."
     }
   ],
