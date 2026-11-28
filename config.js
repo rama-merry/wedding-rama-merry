@@ -13,8 +13,8 @@ const WEDDING_CONFIG = {
     title: "The Wedding of Rama & Merry",
     description: "Undangan Pernikahan Digital Rama Oktamala & Neng Meri Ratna Sapuri. Merupakan kehormatan bagi kami atas kehadiran dan doa restu Anda.",
     keywords: "undangan pernikahan digital, wedding invitation, rama merry wedding, luxury wedding",
-    ogImage: "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
-    favicon: "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=64&q=80"
+    ogImage: "assets/img/ramer.png",
+    favicon: "assets/img/ramer.png"
   },
 
   // 2. DATA MEMPELAI
